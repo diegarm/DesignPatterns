@@ -1,0 +1,6 @@
+@SingletonAPI_HostAddress = http://localhost:5271
+
+GET {{SingletonAPI_HostAddress}}/counter/
+Accept: application/json
+
+###
