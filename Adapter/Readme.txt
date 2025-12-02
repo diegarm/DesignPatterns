@@ -1,0 +1,1 @@
+Por exemplo, o comando "andar" tem que funcionar tanto se o personagem estiver pilotando ou andando.

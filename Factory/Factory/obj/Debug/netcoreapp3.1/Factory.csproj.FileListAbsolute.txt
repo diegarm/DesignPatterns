@@ -1,0 +1,4 @@
+C:\Users\darmando\Documents\Pessoal\DesignPatterns\Criação\Factory\Factory\obj\Debug\netcoreapp3.1\Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darmando\Documents\Pessoal\DesignPatterns\Criação\Factory\Factory\obj\Debug\netcoreapp3.1\Factory.AssemblyInfoInputs.cache
+C:\Users\darmando\Documents\Pessoal\DesignPatterns\Criação\Factory\Factory\obj\Debug\netcoreapp3.1\Factory.AssemblyInfo.cs
+C:\Users\darmando\Documents\Pessoal\DesignPatterns\Criação\Factory\Factory\obj\Debug\netcoreapp3.1\Factory.csproj.CoreCompileInputs.cache

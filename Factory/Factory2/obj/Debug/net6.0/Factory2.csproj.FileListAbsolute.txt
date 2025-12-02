@@ -1,0 +1,14 @@
+C:\Users\darmando\Documents\Pessoal\DesignPatterns\Criação\Factory\Factory2\bin\Debug\net6.0\Factory2.exe
+C:\Users\darmando\Documents\Pessoal\DesignPatterns\Criação\Factory\Factory2\bin\Debug\net6.0\Factory2.deps.json
+C:\Users\darmando\Documents\Pessoal\DesignPatterns\Criação\Factory\Factory2\bin\Debug\net6.0\Factory2.runtimeconfig.json
+C:\Users\darmando\Documents\Pessoal\DesignPatterns\Criação\Factory\Factory2\bin\Debug\net6.0\Factory2.dll
+C:\Users\darmando\Documents\Pessoal\DesignPatterns\Criação\Factory\Factory2\bin\Debug\net6.0\Factory2.pdb
+C:\Users\darmando\Documents\Pessoal\DesignPatterns\Criação\Factory\Factory2\obj\Debug\net6.0\Factory2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darmando\Documents\Pessoal\DesignPatterns\Criação\Factory\Factory2\obj\Debug\net6.0\Factory2.AssemblyInfoInputs.cache
+C:\Users\darmando\Documents\Pessoal\DesignPatterns\Criação\Factory\Factory2\obj\Debug\net6.0\Factory2.AssemblyInfo.cs
+C:\Users\darmando\Documents\Pessoal\DesignPatterns\Criação\Factory\Factory2\obj\Debug\net6.0\Factory2.csproj.CoreCompileInputs.cache
+C:\Users\darmando\Documents\Pessoal\DesignPatterns\Criação\Factory\Factory2\obj\Debug\net6.0\Factory2.dll
+C:\Users\darmando\Documents\Pessoal\DesignPatterns\Criação\Factory\Factory2\obj\Debug\net6.0\refint\Factory2.dll
+C:\Users\darmando\Documents\Pessoal\DesignPatterns\Criação\Factory\Factory2\obj\Debug\net6.0\Factory2.pdb
+C:\Users\darmando\Documents\Pessoal\DesignPatterns\Criação\Factory\Factory2\obj\Debug\net6.0\Factory2.genruntimeconfig.cache
+C:\Users\darmando\Documents\Pessoal\DesignPatterns\Criação\Factory\Factory2\obj\Debug\net6.0\ref\Factory2.dll
